@@ -1,0 +1,547 @@
+e2e4 c7c5 Ng1f3 d7d6 d2d4 c5d4 Nf3d4 Ng8f6 Nb1c3 a7a6 Bc1e3 e7e5 Nd4b3 Bc8e6 f2f3 Bf8e7 Qd1d2 O-O O-O-O Nb8d7 g2g4 b7b5 g4g5
+e2e4 c7c5 Ng1f3 d7d6 d2d4 c5d4 Nf3d4 Ng8f6 Nb1c3 a7a6 Bc1e3 e7e5 Nd4b3 Bc8e6 f2f3 h7h5
+e2e4 c7c5 Ng1f3 d7d6 d2d4 c5d4 Nf3d4 Ng8f6 Nb1c3 a7a6 Bc1e3 e7e6
+e2e4 c7c5 Ng1f3 d7d6 d2d4 c5d4 Nf3d4 Ng8f6 Nb1c3 a7a6 Bc1g5 e7e6 f2f4 Qd8b6
+e2e4 c7c5 Ng1f3 d7d6 d2d4 c5d4 Nf3d4 Ng8f6 Nb1c3 a7a6 Bf1e2 e7e5 Nd4b3 Bf8e7 O-O O-O
+e2e4 c7c5 Ng1f3 d7d6 d2d4 c5d4 Nf3d4 Ng8f6 Nb1c3 a7a6 h2h3
+e2e4 c7c5 Ng1f3 d7d6 d2d4 c5d4 Nf3d4 Ng8f6 Nb1c3 a7a6 Bf1c4 e7e6 Bc4b3
+e2e4 c7c5 Ng1f3 d7d6 d2d4 c5d4 Nf3d4 Ng8f6 Nb1c3 a7a6 f2f3
+e2e4 c7c5 Ng1f3 d7d6 d2d4 c5d4 Nf3d4 Ng8f6 Nb1c3 Nb8c6 Bc1g5 e7e6 Qd1d2 a7a6 O-O-O Bc8d7
+e2e4 c7c5 Ng1f3 d7d6 d2d4 c5d4 Nf3d4 Ng8f6 Nb1c3 Nb8c6 Bf1c4
+e2e4 c7c5 Ng1f3 d7d6 d2d4 c5d4 Nf3d4 Ng8f6 Nb1c3 g7g6 Bc1e3 Bf8g7 f2f3 O-O Qd1d2 Nb8c6
+e2e4 c7c5 Ng1f3 d7d6 d2d4 c5d4 Nf3d4 Ng8f6 Nb1c3 e7e6
+e2e4 c7c5 Ng1f3 d7d6 d2d4 c5d4 Qd1d4
+e2e4 c7c5 Ng1f3 d7d6 d2d4 Ng8f6 Nb1c3 c5d4 Nf3d4 a7a6 Bc1e3 e7e5 Nd4b3 Bc8e6 f2f3 Bf8e7 Qd1d2 O-O O-O-O Nb8d7 g2g4 b7b5 g4g5
+e2e4 c7c5 Ng1f3 d7d6 d2d4 Ng8f6 Nb1c3 c5d4 Nf3d4 a7a6 Bc1e3 e7e5 Nd4b3 Bc8e6 f2f3 h7h5
+e2e4 c7c5 Ng1f3 d7d6 d2d4 Ng8f6 Nb1c3 c5d4 Nf3d4 a7a6 Bc1e3 e7e6
+e2e4 c7c5 Ng1f3 d7d6 d2d4 Ng8f6 Nb1c3 c5d4 Nf3d4 a7a6 Bc1g5 e7e6 f2f4 Qd8b6
+e2e4 c7c5 Ng1f3 d7d6 d2d4 Ng8f6 Nb1c3 c5d4 Nf3d4 a7a6 Bf1e2 e7e5 Nd4b3 Bf8e7 O-O O-O
+e2e4 c7c5 Ng1f3 d7d6 d2d4 Ng8f6 Nb1c3 c5d4 Nf3d4 a7a6 h2h3
+e2e4 c7c5 Ng1f3 d7d6 d2d4 Ng8f6 Nb1c3 c5d4 Nf3d4 a7a6 Bf1c4 e7e6 Bc4b3
+e2e4 c7c5 Ng1f3 d7d6 d2d4 Ng8f6 Nb1c3 c5d4 Nf3d4 a7a6 f2f3
+e2e4 c7c5 Ng1f3 d7d6 d2d4 Ng8f6 Nb1c3 c5d4 Nf3d4 Nb8c6 Bf1c4
+e2e4 c7c5 Ng1f3 d7d6 d2d4 Ng8f6 Nb1c3 c5d4 Nf3d4 g7g6 Bc1e3 Bf8g7 f2f3 O-O Qd1d2 Nb8c6
+e2e4 c7c5 Ng1f3 d7d6 d2d4 Ng8f6 Nb1c3 c5d4 Nf3d4 e7e6
+e2e4 c7c5 Ng1f3 d7d6 Bf1b5 Bc8d7 Bb5d7 Qd8d7
+e2e4 c7c5 Ng1f3 d7d6 Bf1b5 Nb8d7
+e2e4 c7c5 Ng1f3 d7d6 c2c3 Ng8f6
+e2e4 c7c5 Ng1f3 Nb8c6 d2d4 c5d4 Nf3d4 Ng8f6 Nb1c3 e7e5 Nd4b5 d7d6 Bc1g5 a7a6 Nb5a3 b7b5 Nc3d5 Bf8e7 Bg5f6 Be7f6 c2c3
+e2e4 c7c5 Ng1f3 Nb8c6 d2d4 c5d4 Nf3d4 Ng8f6 Nb1c3 e7e5 Nd4b5 d7d6 Bc1g5 a7a6 Nb5a3 b7b5 Bg5f6 g7f6 Nc3d5 f7f5
+e2e4 c7c5 Ng1f3 Nb8c6 d2d4 c5d4 Nf3d4 Ng8f6 Nb1c3 d7d6 Bc1g5 e7e6 Qd1d2 a7a6 O-O-O Bc8d7
+e2e4 c7c5 Ng1f3 Nb8c6 d2d4 c5d4 Nf3d4 Ng8f6 Nb1c3 d7d6 Bf1c4
+e2e4 c7c5 Ng1f3 Nb8c6 d2d4 c5d4 Nf3d4 g7g6 c2c4
+e2e4 c7c5 Ng1f3 Nb8c6 d2d4 c5d4 Nf3d4 e7e5 Nd4b5 d7d6
+e2e4 c7c5 Ng1f3 Nb8c6 Bf1b5 g7g6 O-O Bf8g7
+e2e4 c7c5 Ng1f3 Nb8c6 Bf1b5 g7g6 Bb5c6
+e2e4 c7c5 Ng1f3 Nb8c6 Bf1b5 e7e6 O-O Ng8e7
+e2e4 c7c5 Ng1f3 Nb8c6 Nb1c3
+e2e4 c7c5 Ng1f3 e7e6 d2d4 c5d4 Nf3d4 a7a6 Bf1d3 Bf8c5
+e2e4 c7c5 Ng1f3 e7e6 d2d4 c5d4 Nf3d4 a7a6 Nb1c3 Qd8c7
+e2e4 c7c5 Ng1f3 e7e6 d2d4 c5d4 Nf3d4 Nb8c6 Nb1c3 Qd8c7 Bc1e3 a7a6
+e2e4 c7c5 Ng1f3 e7e6 d2d4 c5d4 Nf3d4 Nb8c6 Nb1c3 Qd8c7 Bf1e2 a7a6 O-O
+e2e4 c7c5 Ng1f3 e7e6 d2d4 c5d4 Nf3d4 Nb8c6 Nb1c3 a7a6
+e2e4 c7c5 Ng1f3 e7e6 d2d4 c5d4 Nf3d4 Ng8f6 Nb1c3 d7d6
+e2e4 c7c5 Ng1f3 e7e6 d2d4 c5d4 Nf3d4 Ng8f6 Nb1c3 Nb8c6 Nd4b5
+e2e4 c7c5 Ng1f3 e7e6 c2c3
+e2e4 c7c5 Ng1f3 e7e6 Nb1c3
+e2e4 c7c5 Ng1f3 e7e6 d2d3 Nb8c6
+e2e4 c7c5 Ng1f3 g7g6 d2d4
+e2e4 c7c5 Nb1c3 Nb8c6 g2g3 g7g6 Bf1g2 Bf8g7 d2d3
+e2e4 c7c5 Nb1c3 d7d6
+e2e4 c7c5 Nb1c3 e7e6
+e2e4 c7c5 c2c3 Ng8f6 e4e5 Nf6d5 d2d4 c5d4 Ng1f3
+e2e4 c7c5 c2c3 Ng8f6 e4e5 Nf6d5 Ng1f3
+e2e4 c7c5 c2c3 d7d5 e4d5 Qd8d5 d2d4 Ng8f6 e4d5 Qd8d5 d2d4 Ng8f6 Ng1f3
+e2e4 e7e5 Ng1f3 Nb8c6 Bf1b5 a7a6 Bb5a4 Ng8f6 O-O Bf8e7 Rf1e1 b7b5 Ba4b3 d7d6 c2c3 O-O h2h3 Nc6a5 Bb3c2 c7c5 d2d4 Qd8c7 Nb1d2
+e2e4 e7e5 Ng1f3 Nb8c6 Bf1b5 a7a6 Bb5a4 Ng8f6 O-O Bf8e7 Rf1e1 b7b5 Ba4b3 d7d6 c2c3 O-O h2h3 Nc6b8 d2d4 Nb8d7 Nb1d2 Bc8b7 Bb3c2
+e2e4 e7e5 Ng1f3 Nb8c6 Bf1b5 a7a6 Bb5a4 Ng8f6 O-O Bf8e7 Rf1e1 b7b5 Ba4b3 d7d6 c2c3 O-O h2h3 Bc8b7 d2d4 Rf8e8 Nb1d2 Be7f8
+e2e4 e7e5 Ng1f3 Nb8c6 Bf1b5 a7a6 Bb5a4 Ng8f6 O-O Bf8e7 Rf1e1 b7b5 Ba4b3 O-O c2c3
+e2e4 e7e5 Ng1f3 Nb8c6 Bf1b5 a7a6 Bb5a4 Ng8f6 O-O b7b5 Ba4b3
+e2e4 e7e5 Ng1f3 Nb8c6 Bf1b5 a7a6 Bb5a4 Ng8f6 O-O Nf6e4 d2d4 b7b5 Ba4b3 d7d5 d4e5 Bc8e6
+e2e4 e7e5 Ng1f3 Nb8c6 Bf1b5 a7a6 Bb5a4 Ng8f6 d2d3
+e2e4 e7e5 Ng1f3 Nb8c6 Bf1b5 a7a6 Bb5a4 d7d6
+e2e4 e7e5 Ng1f3 Nb8c6 Bf1b5 a7a6 Bb5c6 d7c6 O-O
+e2e4 e7e5 Ng1f3 Nb8c6 Bf1b5 Ng8f6 O-O Nf6e4 O-O Nf6e4 d2d4 Ne4d6 Bb5c6 d7c6 d4e5 Nd6f5 Qd1d8 Ke8d8 Nb1c3
+e2e4 e7e5 Ng1f3 Nb8c6 Bf1b5 Ng8f6 O-O Nf6e4 d2d3 Bf8c5
+e2e4 e7e5 Ng1f3 Nb8c6 Bf1b5 Ng8f6 d2d3 Bf8c5
+e2e4 e7e5 Ng1f3 Nb8c6 Bf1c4 Bf8c5 c2c3 Ng8f6 d2d3 d7d6
+e2e4 e7e5 Ng1f3 Nb8c6 Bf1c4 Ng8f6 d2d3 Bf8e7 d2d3 Bf8e7
+e2e4 e7e5 Ng1f3 Nb8c6 d2d4 e5d4 Nf3d4 Ng8f6 Nd4c6 b7c6 e4e5
+e2e4 e7e5 Ng1f3 Nb8c6 d2d4 e5d4 Nf3d4 Bf8c5
+e2e4 e7e5 Ng1f3 Nb8c6 Nb1c3 Ng8f6 Bf1b5 Ng8f6 Bf1b5
+e2e4 e7e5 Ng1f3 Nb8c6 Nb1c3 Ng8f6 Bf1b5 Ng8f6 d2d4
+e2e4 e7e5 Ng1f3 Nb8c6 Nb1c3 Ng8f6 d2d4
+e2e4 e7e5 Ng1f3 Ng8f6 Nf3e5 d7d6 Ne5f3 Nf6e4 d2d4 d7d5 Bf1d3
+e2e4 e7e5 Ng1f3 d7d6 d2d4
+e2e4 e7e5 Bf1c4 Ng8f6 d2d3
+e2e4 e7e5 Nb1c3
+e2e4 e7e6 d2d4 d7d5 Nb1c3 Bf8b4 e4e5 c7c5 a2a3 Bb4c3 b2c3 Ng8e7 Qd1g4
+e2e4 e7e6 d2d4 d7d5 Nb1c3 Ng8f6 e4e5 Nf6d7 f2f4 c7c5 Ng1f3 Nb8c6 Bc1e3
+e2e4 e7e6 d2d4 d7d5 Nb1c3 Ng8f6 Bc1g5 d5e4 d5e4 Nc3e4
+e2e4 e7e6 d2d4 d7d5 Nb1c3 d5e4 Nc3e4 Nc3e4
+e2e4 e7e6 d2d4 d7d5 Nb1d2 c7c5 e4d5
+e2e4 e7e6 d2d4 d7d5 Nb1d2 c7c5 Ng1f3
+e2e4 e7e6 d2d4 d7d5 Nb1d2 Ng8f6 e4e5 Nf6d7 e4e5 Nf6d7 Bf1d3 c7c5 c2c3 Nb8c6 Ng1e2 c5d4 c3d4 f7f6
+e2e4 e7e6 d2d4 d7d5 e4e5 c7c5 c2c3 Nb8c6 Ng1f3
+e2e4 e7e6 d2d4 d7d5 e4d5 e6d5 e6d5
+e2e4 e7e6 d2d3 d7d5 Nb1d2 d7d5 Nb1d2
+e2e4 c7c6 d2d4 d7d5 e4e5 Bc8f5 Ng1f3 e7e6 Bf1e2
+e2e4 c7c6 d2d4 d7d5 Nb1c3 d5e4 Nc3e4 Bc8f5 Ne4g3 Bf5g6 h2h4 h7h6 Ng1f3 Nb8d7 h4h5 Bg6h7 Bf1d3 Bh7d3 Qd1d3 e7e6
+e2e4 c7c6 d2d4 d7d5 Nb1c3 d5e4 Nc3e4 Nb8d7
+e2e4 c7c6 d2d4 d7d5 e4d5 c6d5 c2c4 Ng8f6 Nb1c3 e7e6 Ng1f3
+e2e4 c7c6 d2d4 d7d5 Nb1d2 d5e4 Nd2e4 Bc8f5 Ne4g3 Bf5g6 h2h4 h7h6 Ng1f3 Nb8d7 h4h5 Bg6h7 Bf1d3 Bh7d3 Qd1d3 e7e6
+e2e4 c7c6 d2d4 d7d5 Nb1d2 d5e4 Nd2e4 Nb8d7
+e2e4 c7c6 Nb1c3 d7d5 Ng1f3 d7d5 Ng1f3
+e2e4 d7d6 d2d4 Ng8f6 Nb1c3 g7g6
+e2e4 d7d6 d2d4 Ng8f6 Nb1c3 e7e5 Ng1f3 Nb8d7 Bf1c4 Bf8e7 O-O O-O
+e2e4 d7d6 d2d4 g7g6 Nb1c3
+e2e4 g7g6 d2d4 Bf8g7 Nb1c3 d7d6 Bc1e3
+e2e4 g7g6 d2d4 Bf8g7 Nb1c3 d7d6 f2f4
+e2e4 g7g6 d2d4 Bf8g7 Nb1c3 c7c6
+e2e4 g7g6 d2d4 Bf8g7 Ng1f3 d7d6
+e2e4 d7d5 e4d5 Qd8d5 Nb1c3 Qd5a5 d2d4
+e2e4 d7d5 e4d5 Qd8d5 Nb1c3 Qd5d6
+e2e4 d7d5 e4d5 Ng8f6
+e2e4 Ng8f6 e4e5 Nf6d5 d2d4 d7d6 Ng1f3
+e2e4 Nb8c6
+d2d4 Ng8f6 c2c4 e7e6 Ng1f3 b7b6 g2g3 Bc8a6 b2b3 Bf8b4 Bc1d2 Bb4e7 Bf1g2
+d2d4 Ng8f6 c2c4 e7e6 Ng1f3 b7b6 g2g3 Bc8b7 Bf1g2 Bf8e7 O-O O-O
+d2d4 Ng8f6 c2c4 e7e6 Ng1f3 b7b6 a2a3 Bc8b7 Bc8e7 Nb1c3 d7d5
+d2d4 Ng8f6 c2c4 e7e6 Ng1f3 b7b6 Nb1c3
+d2d4 Ng8f6 c2c4 e7e6 Ng1f3 d7d5 Nb1c3 Bf8e7 Bc1g5 h7h6
+d2d4 Ng8f6 c2c4 e7e6 Ng1f3 d7d5 Nb1c3 Bf8e7 Bc1g5 O-O e2e3
+d2d4 Ng8f6 c2c4 e7e6 Ng1f3 d7d5 Nb1c3 Bf8e7 Bc1f4 O-O e2e3
+d2d4 Ng8f6 c2c4 e7e6 Ng1f3 d7d5 Nb1c3 c7c6 Bc1g5 h7h6 Bg5h4 d5c4 e2e4 g7g5 Bh4g3 b7b5 Bf1e2 Bc8b7
+d2d4 Ng8f6 c2c4 e7e6 Ng1f3 d7d5 Nb1c3 c7c6 Bc1g5 h7h6 Bg5f6 Qd8f6
+d2d4 Ng8f6 c2c4 e7e6 Ng1f3 d7d5 Nb1c3 c7c6 e2e3 Nb8d7 Qd1c2 Bf8d6 Bf1d3 O-O O-O d5c4 Bd3c4
+d2d4 Ng8f6 c2c4 e7e6 Ng1f3 d7d5 Nb1c3 c7c6 e2e3 Nb8d7 Bf1d3 d5c4 Bd3c4 b7b5 Bc4d3
+d2d4 Ng8f6 c2c4 e7e6 Ng1f3 d7d5 Nb1c3 Bf8b4
+d2d4 Ng8f6 c2c4 e7e6 Ng1f3 d7d5 Nb1c3 d5c4
+d2d4 Ng8f6 c2c4 e7e6 Ng1f3 d7d5 g2g3 d5c4 Bf1g2
+d2d4 Ng8f6 c2c4 e7e6 Ng1f3 d7d5 g2g3 Bf8e7 Bf1g2 O-O O-O d5c4 Qd1c2 a7a6
+d2d4 Ng8f6 c2c4 e7e6 Ng1f3 d7d5 g2g3 Bf8b4 Bf1d2 Bb4e7 Bf1g2 O-O O-O
+d2d4 Ng8f6 c2c4 e7e6 Ng1f3 Bf8b4 Bc1d2 Qd8e7
+d2d4 Ng8f6 c2c4 e7e6 Ng1f3 Bf8b4 Nb1d2
+d2d4 Ng8f6 c2c4 e7e6 Ng1f3 c7c5 d4d5 e6d5 c4d5
+d2d4 Ng8f6 c2c4 e7e6 Nb1c3 Bf8b4 e2e3 O-O Bf1d3 d7d5 Ng1f3
+d2d4 Ng8f6 c2c4 e7e6 Nb1c3 Bf8b4 e2e3 c7c5
+d2d4 Ng8f6 c2c4 e7e6 Nb1c3 Bf8b4 Qd1c2 O-O a2a3 Bb4c3 Qc2c3 b7b6 Bc1g5
+d2d4 Ng8f6 c2c4 e7e6 Nb1c3 Bf8b4 f2f3
+d2d4 Ng8f6 c2c4 e7e6 Nb1c3 Bf8b4 Ng1f3
+d2d4 Ng8f6 c2c4 e7e6 Nb1c3 d7d5 c4d5 e6d5 Bc1g5 c7c6
+d2d4 Ng8f6 c2c4 e7e6 Nb1c3 d7d5 c4d5 e6d5 Bc1g5 Bf8e7 e2e3
+d2d4 Ng8f6 c2c4 e7e6 Nb1c3 d7d5 Bc1g5
+d2d4 Ng8f6 c2c4 e7e6 Nb1c3 d7d5 Ng1f3 Bf8e7 Bc1g5 h7h6
+d2d4 Ng8f6 c2c4 e7e6 Nb1c3 d7d5 Ng1f3 Bf8e7 Bc1g5 O-O e2e3
+d2d4 Ng8f6 c2c4 e7e6 Nb1c3 d7d5 Ng1f3 Bf8e7 Bc1f4 O-O e2e3
+d2d4 Ng8f6 c2c4 e7e6 Nb1c3 d7d5 Ng1f3 c7c6 Bc1g5 h7h6 Bg5h4 d5c4 e2e4 g7g5 Bh4g3 b7b5 Bf1e2 Bc8b7
+d2d4 Ng8f6 c2c4 e7e6 Nb1c3 d7d5 Ng1f3 c7c6 Bc1g5 h7h6 Bg5f6 Qd8f6
+d2d4 Ng8f6 c2c4 e7e6 Nb1c3 d7d5 Ng1f3 c7c6 e2e3 Nb8d7 Qd1c2 Bf8d6 Bf1d3 O-O O-O d5c4 Bd3c4
+d2d4 Ng8f6 c2c4 e7e6 Nb1c3 d7d5 Ng1f3 c7c6 e2e3 Nb8d7 Bf1d3 d5c4 Bd3c4 b7b5 Bc4d3
+d2d4 Ng8f6 c2c4 e7e6 Nb1c3 d7d5 Ng1f3 Bf8b4
+d2d4 Ng8f6 c2c4 e7e6 Nb1c3 d7d5 Ng1f3 d5c4
+d2d4 Ng8f6 c2c4 e7e6 g2g3 d7d5 Bf1g2
+d2d4 Ng8f6 c2c4 e7e6 g2g3 d7d5 Ng1f3 d5c4 Bf1g2
+d2d4 Ng8f6 c2c4 e7e6 g2g3 d7d5 Ng1f3 Bf8e7 Bf1g2 O-O O-O d5c4 Qd1c2 a7a6
+d2d4 Ng8f6 c2c4 e7e6 g2g3 d7d5 Ng1f3 Bf8b4 Bc1d2 Bb4e7 Bf1g2 O-O O-O
+d2d4 Ng8f6 c2c4 e7e6 g2g3 c7c5
+d2d4 Ng8f6 c2c4 e7e6 g2g3 Bf8b4
+d2d4 Ng8f6 c2c4 g7g6 Nb1c3 Bf8g7 e2e4 d7d6 Ng1f3 O-O Bf1e2 e7e5 O-O Nb8c6 d4d5 Nc6e7 b2b4
+d2d4 Ng8f6 c2c4 g7g6 Nb1c3 Bf8g7 e2e4 d7d6 Ng1f3 O-O Bf1e2 e7e5 O-O Nb8c6 d4d5 Nc6e7 Nf3e1 Nf6d7
+d2d4 Ng8f6 c2c4 g7g6 Nb1c3 Bf8g7 e2e4 d7d6 Ng1f3 O-O Bf1e2 e7e5 Bc1e3
+d2d4 Ng8f6 c2c4 g7g6 Nb1c3 Bf8g7 e2e4 d7d6 Ng1f3 O-O h2h3 e7e5
+d2d4 Ng8f6 c2c4 g7g6 Nb1c3 Bf8g7 e2e4 d7d6 Bf1e2 O-O Ng1f3 e7e5 O-O Nb8c6 d4d5 Nc6e7 b2b4
+d2d4 Ng8f6 c2c4 g7g6 Nb1c3 Bf8g7 e2e4 d7d6 Bf1e2 O-O Ng1f3 e7e5 O-O Nb8c6 d4d5 Nc6e7 Nf3e1 Nf6d7
+d2d4 Ng8f6 c2c4 g7g6 Nb1c3 Bf8g7 e2e4 d7d6 Bf1e2 O-O Ng1f3 e7e5 Bc1e3
+d2d4 Ng8f6 c2c4 g7g6 Nb1c3 Bf8g7 e2e4 d7d6 Bf1e2 O-O Bc1g5
+d2d4 Ng8f6 c2c4 g7g6 Nb1c3 Bf8g7 e2e4 d7d6 f2f3 O-O Bc1e3
+d2d4 Ng8f6 c2c4 g7g6 Nb1c3 Bf8g7 e2e4 O-O
+d2d4 Ng8f6 c2c4 g7g6 Nb1c3 d7d5 c4d5 Nf6d5 e2e4 Nd5c3 b2c3 Bf8g7 Bf1c4
+d2d4 Ng8f6 c2c4 g7g6 Nb1c3 d7d5 c4d5 Nf6d5 e2e4 Nd5c3 b2c3 Bf8g7 Ng1f3 c7c5
+d2d4 Ng8f6 c2c4 g7g6 Nb1c3 d7d5 Ng1f3 Bf8g7
+d2d4 Ng8f6 c2c4 g7g6 g2g3 Bf8g7 Bf1g2 O-O Bf8g7 Bf1g2 O-O
+d2d4 Ng8f6 c2c4 g7g6 Ng1f3 Bf8g7 Nb1c3 O-O e2e4 d7d6 Bf1e2 e7e5 O-O Nb8c6 d4d5 Nc6e7 b2b4
+d2d4 Ng8f6 c2c4 g7g6 Ng1f3 Bf8g7 Nb1c3 O-O e2e4 d7d6 Bf1e2 e7e5 O-O Nb8c6 d4d5 Nc6e7 Nf3e1 Nf6d7
+d2d4 Ng8f6 c2c4 g7g6 Ng1f3 Bf8g7 Nb1c3 O-O e2e4 d7d6 Bf1e2 e7e5 Bc1e3
+d2d4 Ng8f6 c2c4 g7g6 Ng1f3 Bf8g7 Nb1c3 O-O e2e4 d7d6 h2h3 e7e5
+d2d4 Ng8f6 c2c4 g7g6 Ng1f3 Bf8g7 Nb1c3 d7d5
+d2d4 Ng8f6 c2c4 g7g6 Ng1f3 Bf8g7 g2g3 O-O Bf1g2 d7d6 O-O Nb8c6 Nb1c3 a7a6
+d2d4 Ng8f6 c2c4 g7g6 Ng1f3 Bf8g7 g2g3 O-O Bf1g2 d7d6 O-O Nb8d7 Nb1c3 e7e5 e2e4
+d2d4 Ng8f6 c2c4 c7c5 d4d5 b7b5 c4b5 a7a6 b5a6
+d2d4 Ng8f6 c2c4 c7c5 d4d5 e7e6 Nb1c3 e6d5 c4d5 d7d6 e2e4 g7g6
+d2d4 Ng8f6 c2c4 d7d6 Nb1c3
+d2d4 Ng8f6 Ng1f3 g7g6 c2c4 Bf8g7 Nb1c3 O-O e2e4 d7d6 Bf1e2 e7e5 O-O Nb8c6 d4d5 Nc6e7 b2b4
+d2d4 Ng8f6 Ng1f3 g7g6 c2c4 Bf8g7 Nb1c3 O-O e2e4 d7d6 Bf1e2 e7e5 O-O Nb8c6 d4d5 Nc6e7 Nf3e1 Nf6d7
+d2d4 Ng8f6 Ng1f3 g7g6 c2c4 Bf8g7 Nb1c3 O-O e2e4 d7d6 Bf1e2 e7e5 Bc1e3
+d2d4 Ng8f6 Ng1f3 g7g6 c2c4 Bf8g7 Nb1c3 O-O e2e4 d7d6 h2h3 e7e5
+d2d4 Ng8f6 Ng1f3 g7g6 c2c4 Bf8g7 Nb1c3 d7d5
+d2d4 Ng8f6 Ng1f3 g7g6 c2c4 Bf8g7 g2g3 O-O Bf1g2 d7d6 O-O Nb8c6 Nb1c3 a7a6
+d2d4 Ng8f6 Ng1f3 g7g6 c2c4 Bf8g7 g2g3 O-O  Bf1g2 d7d6 O-O Nb8d7 Nb1c3 e7e5 e2e4
+d2d4 Ng8f6 Ng1f3 g7g6 g2g3 Bf8g7 Bf1g2 O-O O-O d7d6
+d2d4 Ng8f6 Ng1f3 g7g6 Bc1g5 Bf8g7 Nb1d2
+d2d4 Ng8f6 Ng1f3 e7e6 c2c4 b7b6 g2g3 Bc8a6 b2b3 Bf8b4 Bc1d2 Bb4e7 Bf1g2
+d2d4 Ng8f6 Ng1f3 e7e6 c2c4 b7b6 g2g3 Bc8b7 Bf1g2 Bf8e7 O-O O-O
+d2d4 Ng8f6 Ng1f3 e7e6 c2c4 b7b6 a2a3 Bc8b7 Bc8e7 Nb1c3 d7d5
+d2d4 Ng8f6 Ng1f3 e7e6 c2c4 b7b6 Nb1c3
+d2d4 Ng8f6 Ng1f3 e7e6 c2c4 d7d5 Nb1c3 Bf8e7 Bc1g5 h7h6
+d2d4 Ng8f6 Ng1f3 e7e6 c2c4 d7d5 Nb1c3 Bf8e7 Bc1g5 O-O e2e3
+d2d4 Ng8f6 Ng1f3 e7e6 c2c4 d7d5 Nb1c3 Bf8e7 Bc1f4 O-O e2e3
+d2d4 Ng8f6 Ng1f3 e7e6 c2c4 d7d5 Nb1c3 c7c6 Bc1g5 h7h6 Bg5h4 d5c4 e2e4 g7g5 Bh4g3 b7b5 Bf1e2 Bc8b7
+d2d4 Ng8f6 Ng1f3 e7e6 c2c4 d7d5 Nb1c3 c7c6 Bc1g5 h7h6 Bg5f6 Qd8f6
+d2d4 Ng8f6 Ng1f3 e7e6 c2c4 d7d5 Nb1c3 c7c6 e2e3 Nb8d7 Qd1c2 Bf8d6 Bf1d3 O-O O-O d5c4 Bd3c4
+d2d4 Ng8f6 Ng1f3 e7e6 c2c4 d7d5 Nb1c3 c7c6 e2e3 Nb8d7 Bf1d3 d5c4 Bd3c4 b7b5 Bc4d3
+d2d4 Ng8f6 Ng1f3 e7e6 c2c4 d7d5 Nb1c3 Bf8b4
+d2d4 Ng8f6 Ng1f3 e7e6 c2c4 d7d5 Nb1c3 d5c4
+d2d4 Ng8f6 Ng1f3 e7e6 c2c4 d7d5 g2g3 d5c4 Bf1g2
+d2d4 Ng8f6 Ng1f3 e7e6 c2c4 d7d5 g2g3 Bf8e7 Bf1g2 O-O O-O d5c4 Qd1c2 a7a6
+d2d4 Ng8f6 Ng1f3 e7e6 c2c4 d7d5 g2g3 Bf8b4 Bf1d2 Bb4e7 Bf1g2 O-O O-O
+d2d4 Ng8f6 Ng1f3 e7e6 c2c4 Bf8b4 Bc1d2 Qd8e7
+d2d4 Ng8f6 Ng1f3 e7e6 c2c4 Bf8b4 Nb1d2
+d2d4 Ng8f6 Ng1f3 e7e6 c2c4 c7c5 d4d5 e6d5 c4d5
+d2d4 Ng8f6 Ng1f3 e7e6 g2g3
+d2d4 Ng8f6 Ng1f3 e7e6 e2e3
+d2d4 Ng8f6 Ng1f3 e7e6 Bc1g5
+d2d4 Ng8f6 Ng1f3 d7d5 c2c4 c7c6 Nb1c3 e7e6 Bc1g5 h7h6 Bg5h4 d5c4 e2e4 g7g5 Bh4g3 b7b5 Bf1e2 Bc8b7
+d2d4 Ng8f6 Ng1f3 d7d5 c2c4 c7c6 Nb1c3 e7e6 Bc1g5 h7h6 Bg5f6 Qd8f6
+d2d4 Ng8f6 Ng1f3 d7d5 c2c4 c7c6 Nb1c3 e7e6 e2e3 Nb8d7 Qd1c2 Bf8d6 Bf1d3 O-O O-O d5c4 Bd3c4
+d2d4 Ng8f6 Ng1f3 d7d5 c2c4 c7c6 Nb1c3 e7e6 e2e3 Nb8d7 Bf1d3 d5c4 Bd3c4 b7b5 Bc4d3
+d2d4 Ng8f6 Ng1f3 d7d5 c2c4 c7c6 Nb1c3 d5c4 a2a4 Bc8f5 Nf3e5
+d2d4 Ng8f6 Ng1f3 d7d5 c2c4 c7c6 Nb1c3 d5c4 a2a4 Bc8f5 e2e3 e7e6 Bf1c4 Bf8b4 O-O
+d2d4 Ng8f6 Ng1f3 d7d5 c2c4 c7c6 Nb1c3 a7a6
+d2d4 Ng8f6 Ng1f3 d7d5 c2c4 c7c6 e2e3 Bc8f5 Nb1c3 e7e6 Nf3h4
+d2d4 Ng8f6 Ng1f3 d7d5 c2c4 c7c6 e2e3 e7e6
+d2d4 Ng8f6 Ng1f3 d7d5 c2c4 e7e6 Nb1c3 Bf8e7 Bc1g5 h7h6
+d2d4 Ng8f6 Ng1f3 d7d5 c2c4 e7e6 Nb1c3 Bf8e7 Bc1g5 O-O e2e3
+d2d4 Ng8f6 Ng1f3 d7d5 c2c4 e7e6 Nb1c3 Bf8e7 Bc1f4 O-O e2e3
+d2d4 Ng8f6 Ng1f3 d7d5 c2c4 e7e6 Nb1c3 c7c6 Bc1g5 h7h6 Bg5h4 d5c4 e2e4 g7g5 Bh4g3 b7b5 Bf1e2 Bc8b7
+d2d4 Ng8f6 Ng1f3 d7d5 c2c4 e7e6 Nb1c3 c7c6 Bc1g5 h7h6 Bg5f6 Qd8f6
+d2d4 Ng8f6 Ng1f3 d7d5 c2c4 e7e6 Nb1c3 c7c6 e2e3 Nb8d7 Qd1c2 Bf8d6 Bf1d3 O-O O-O d5c4 Bd3c4
+d2d4 Ng8f6 Ng1f3 d7d5 c2c4 e7e6 Nb1c3 c7c6 e2e3 Nb8d7 Bf1d3 d5c4 Bd3c4 b7b5 Bc4d3
+d2d4 Ng8f6 Ng1f3 d7d5 c2c4 e7e6 Nb1c3 Bf8b4
+d2d4 Ng8f6 Ng1f3 d7d5 c2c4 e7e6 Nb1c3 d5c4
+d2d4 Ng8f6 Ng1f3 d7d5 c2c4 e7e6 g2g3 d5c4 Bf1g2
+d2d4 Ng8f6 Ng1f3 d7d5 c2c4 e7e6 g2g3 Bf8e7 Bf1g2 O-O O-O d5c4 Qd1c2 a7a6
+d2d4 Ng8f6 Ng1f3 d7d5 c2c4 e7e6 g2g3 Bf8b4 Bc1d2 Bb4e7 Bf1g2 O-O O-O
+d2d4 Ng8f6 Ng1f3 d7d5 c2c4 d5c4 e2e3 e7e6 Bf1c4 c7c5 O-O a7a6
+d2d4 Ng8f6 Ng1f3 d7d5 Bc1f4
+d2d4 Ng8f6 Ng1f3 c7c5 d4d5
+d2d4 Ng8f6 Bc1g5 Nf6e4 Bg5f4
+d2d4 Ng8f6 Bc1g5 e7e6
+d2d4 Ng8f6 Bc1g5 d7d5
+d2d4 Ng8f6 Bc1f4
+d2d4 Ng8f6 Nb1c3
+d2d4 d7d5 c2c4 c7c6 Ng1f3 Ng8f6 Nb1c3 e7e6 Bc1g5 h7h6 Bg5h4 d5c4 e2e4 g7g5 Bh4g3 b7b5 Bf1e2 Bc8b7
+d2d4 d7d5 c2c4 c7c6 Ng1f3 Ng8f6 Nb1c3 e7e6 Bc1g5 h7h6 Bg5f6 Qd8f6
+d2d4 d7d5 c2c4 c7c6 Ng1f3 Ng8f6 Nb1c3 e7e6 e2e3 Nb8d7 Qd1c2 Bf8d6 Bf1d3 O-O O-O d5c4 Bd3c4
+d2d4 d7d5 c2c4 c7c6 Ng1f3 Ng8f6 Nb1c3 e7e6 e2e3 Nb8d7 Bf1d3 d5c4 Bd3c4 b7b5 Bc4d3
+d2d4 d7d5 c2c4 c7c6 Ng1f3 Ng8f6 Nb1c3 d5c4 a2a4 Bc8f5 Nf3e5
+d2d4 d7d5 c2c4 c7c6 Ng1f3 Ng8f6 Nb1c3 d5c4 a2a4 Bc8f5 e2e3 e7e6 Bf1c4 Bf8b4 O-O
+d2d4 d7d5 c2c4 c7c6 Ng1f3 Ng8f6 Nb1c3 a7a6
+d2d4 d7d5 c2c4 c7c6 Ng1f3 Ng8f6 e2e3 Bc8f5 Nb1c3 e7e6 Nf3h4
+d2d4 d7d5 c2c4 c7c6 Ng1f3 Ng8f6 e2e3 e7e6
+d2d4 d7d5 c2c4 c7c6 Nb1c3 Ng8f6 e2e3 e7e6 Ng1f3 Nb8d7 Qd1c2 Bf8d6 Bf1d3 O-O O-O d5c4 Bd3c4
+d2d4 d7d5 c2c4 c7c6 Nb1c3 Ng8f6 e2e3 e7e6 Ng1f3 Nb8d7 Bf1d3 d5c4 Bd3c4 b7b5 Bc4d3
+d2d4 d7d5 c2c4 c7c6 Nb1c3 Ng8f6 Ng1f3 e7e6 Bc1g5 h7h6 Bg5h4 d5c4 e2e4 g7g5 Bh4g3 b7b5 Bf1e2 Bc8b7
+d2d4 d7d5 c2c4 c7c6 Nb1c3 Ng8f6 Ng1f3 e7e6 Bc1g5 h7h6 Bg5f6 Qd8f6
+d2d4 d7d5 c2c4 c7c6 Nb1c3 Ng8f6 Ng1f3 e7e6 e2e3 Nb8d7 Qd1c2 Bf8d6 Bf1d3 O-O O-O d5c4 Bd3c4
+d2d4 d7d5 c2c4 c7c6 Nb1c3 Ng8f6 Ng1f3 e7e6 e2e3 Nb8d7 Bf1d3 d5c4 Bd3c4 b7b5 Bc4d3
+d2d4 d7d5 c2c4 c7c6 Nb1c3 Ng8f6 Ng1f3 d5c4 a2a4 Bc8f5 Nf3e5
+d2d4 d7d5 c2c4 c7c6 Nb1c3 Ng8f6 Ng1f3 d5c4 a2a4 Bc8f5 e2e3 e7e6 Bf1c4 Bf8b4 O-O
+d2d4 d7d5 c2c4 c7c6 Nb1c3 Ng8f6 Ng1f3 a7a6
+d2d4 d7d5 c2c4 c7c6 c4d5 c6d5
+d2d4 d7d5 c2c4 e7e6 Nb1c3 Ng8f6 c4d5 e6d5 Bc1g5 c7c6
+d2d4 d7d5 c2c4 e7e6 Nb1c3 Ng8f6 c4d5 e6d5 Bc1g5 Bf8e7 e2e3
+d2d4 d7d5 c2c4 e7e6 Nb1c3 Ng8f6 Bc1g5
+d2d4 d7d5 c2c4 e7e6 Nb1c3 Ng8f6 Ng1f3 Bf8e7 Bc1g5 h7h6
+d2d4 d7d5 c2c4 e7e6 Nb1c3 Ng8f6 Ng1f3 Bf8e7 Bc1g5 O-O e2e3
+d2d4 d7d5 c2c4 e7e6 Nb1c3 Ng8f6 Ng1f3 Bf8e7 Bc1f4 O-O e2e3
+d2d4 d7d5 c2c4 e7e6 Nb1c3 Ng8f6 Ng1f3 c7c6 Bc1g5 h7h6 Bg5h4 d5c4 e2e4 g7g5 Bh4g3 b7b5 Bf1e2 Bc8b7
+d2d4 d7d5 c2c4 e7e6 Nb1c3 Ng8f6 Ng1f3 c7c6 Bc1g5 h7h6 Bg5f6 Qd8f6
+d2d4 d7d5 c2c4 e7e6 Nb1c3 Ng8f6 Ng1f3 c7c6 e2e3 Nb8d7 Qd1c2 Bf8d6 Bf1d3 O-O O-O d5c4 Bd3c4
+d2d4 d7d5 c2c4 e7e6 Nb1c3 Ng8f6 Ng1f3 c7c6 e2e3 Nb8d7 Bf1d3 d5c4 Bd3c4 b7b5 Bc4d3
+d2d4 d7d5 c2c4 e7e6 Nb1c3 Ng8f6 Ng1f3 Bf8b4
+d2d4 d7d5 c2c4 e7e6 Nb1c3 Ng8f6 Ng1f3 d5c4
+d2d4 d7d5 c2c4 e7e6 Nb1c3 c7c6
+d2d4 d7d5 c2c4 e7e6 Nb1c3 Bf8e7
+d2d4 d7d5 c2c4 e7e6 Ng1f3 Ng8f6 Nb1c3 Bf8e7 Bc1g5 h7h6
+d2d4 d7d5 c2c4 e7e6 Ng1f3 Ng8f6 Nb1c3 Bf8e7 Bc1g5 O-O e2e3
+d2d4 d7d5 c2c4 e7e6 Ng1f3 Ng8f6 Nb1c3 Bf8e7 Bc1f4 O-O e2e3
+d2d4 d7d5 c2c4 e7e6 Ng1f3 Ng8f6 Nb1c3 c7c6 Bc1g5 h7h6 Bg5h4 d5c4 e2e4 g7g5 Bh4g3 b7b5 Bf1e2 Bc8b7
+d2d4 d7d5 c2c4 e7e6 Ng1f3 Ng8f6 Nb1c3 c7c6 Bc1g5 h7h6 Bg5f6 Qd8f6
+d2d4 d7d5 c2c4 e7e6 Ng1f3 Ng8f6 Nb1c3 c7c6 e2e3 Nb8d7 Qd1c2 Bf8d6 Bf1d3 O-O O-O d5c4 Bd3c4
+d2d4 d7d5 c2c4 e7e6 Ng1f3 Ng8f6 Nb1c3 c7c6 e2e3 Nb8d7 Bf1d3 d5c4 Bd3c4 b7b5 Bc4d3
+d2d4 d7d5 c2c4 e7e6 Ng1f3 Ng8f6 Nb1c3 Bf8b4
+d2d4 d7d5 c2c4 e7e6 Ng1f3 Ng8f6 Nb1c3 d5c4
+d2d4 d7d5 c2c4 e7e6 Ng1f3 Ng8f6 g2g3 d5c4 Bf1g2
+d2d4 d7d5 c2c4 e7e6 Ng1f3 Ng8f6 g2g3 Bf8e7 Bf1g2 O-O O-O d5c4 Qd1c2 a7a6
+d2d4 d7d5 c2c4 e7e6 Ng1f3 Ng8f6 g2g3 Bf8b4 Bc1d2 Bb4e7 Bf1g2 O-O O-O
+d2d4 d7d5 c2c4 e7e6 Ng1f3 c7c6
+d2d4 d7d5 c2c4 d5c4 Ng1f3 Ng8f6 e2e3 e7e6 Bf1c4 c7c5 O-O a7a6
+d2d4 d7d5 c2c4 d5c4 e2e4
+d2d4 d7d5 Ng1f3 Ng8f6 c2c4 c7c6 Nb1c3 e7e6 Bc1g5 h7h6 Bg5h4 d5c4 e2e4 g7g5 Bh4g3 b7b5 Bf1e2 Bc8b7
+d2d4 d7d5 Ng1f3 Ng8f6 c2c4 c7c6 Nb1c3 e7e6 Bg5f6 Qd8f6
+d2d4 d7d5 Ng1f3 Ng8f6 c2c4 c7c6 Nb1c3 e7e6 e2e3 Nb8d7 Qd1c2 Bf8d6 Bf1d3 O-O O-O d5c4 Bd3c4
+d2d4 d7d5 Ng1f3 Ng8f6 c2c4 c7c6 Nb1c3 e7e6 e2e3 Nb8d7 Bf1d3 d5c4 Bd3c4 b7b5 Bc4d3
+d2d4 d7d5 Ng1f3 Ng8f6 c2c4 c7c6 Nb1c3 d5c4 a2a4 Bc8f5 Nf3e5
+d2d4 d7d5 Ng1f3 Ng8f6 c2c4 c7c6 Nb1c3 d5c4 a2a4 Bc8f5 e2e3 e7e6 Bf1c4 Bf8b4 O-O
+d2d4 d7d5 Ng1f3 Ng8f6 c2c4 c7c6 Nb1c3 a7a6
+d2d4 d7d5 Ng1f3 Ng8f6 c2c4 c7c6 e2e3 Bc8f5 Nb1c3 e7e6 Nf3h4
+d2d4 d7d5 Ng1f3 Ng8f6 c2c4 c7c6 e2e3 e7e6
+d2d4 d7d5 Ng1f3 Ng8f6 c2c4 e7e6 Nb1c3 Bf8e7 Bc1g5 h7h6
+d2d4 d7d5 Ng1f3 Ng8f6 c2c4 e7e6 Nb1c3 Bf8e7 Bc1g5 O-O e2e3
+d2d4 d7d5 Ng1f3 Ng8f6 c2c4 e7e6 Nb1c3 Bf8e7 Bc1f4 O-O e2e3
+d2d4 d7d5 Ng1f3 Ng8f6 c2c4 e7e6 Nb1c3 c7c6 Bc1g5 h7h6 Bg5h4 d5c4 e2e4 g7g5 Bh4g3 b7b5 Bf1e2 Bc8b7
+d2d4 d7d5 Ng1f3 Ng8f6 c2c4 e7e6 Nb1c3 c7c6 Bc1g5 h7h6 Bg5f6 Qd8f6
+d2d4 d7d5 Ng1f3 Ng8f6 c2c4 e7e6 Nb1c3 c7c6 e2e3 Nb8d7 Qd1c2 Bf8d6 Bf1d3 O-O O-O d5c4 Bd3c4
+d2d4 d7d5 Ng1f3 Ng8f6 c2c4 e7e6 Nb1c3 c7c6 e2e3 Nb8d7 Bf1d3 d5c4 Bd3c4 b7b5 Bc4d3
+d2d4 d7d5 Ng1f3 Ng8f6 c2c4 e7e6 Nb1c3 Bf8b4
+d2d4 d7d5 Ng1f3 Ng8f6 c2c4 e7e6 Nb1c3 d5c4
+d2d4 d7d5 Ng1f3 Ng8f6 c2c4 e7e6 g2g3 d5c4 Bf1g2
+d2d4 d7d5 Ng1f3 Ng8f6 c2c4 e7e6 g2g3 Bf8e7 Bf1g2 O-O O-O d5c4 Qd1c2 a7a6
+d2d4 d7d5 Ng1f3 Ng8f6 c2c4 e7e6 g2g3 Bf8b4 Bc1d2 Bb4e7 Bf1g2 O-O O-O
+d2d4 d7d5 Ng1f3 Ng8f6 c2c4 d5c4 e2e3 e7e6 Bf1c4 c7c5 O-O a7a6
+d2d4 d7d5 Ng1f3 Ng8f6 Bc1f4
+d2d4 d7d5 Ng1f3 c7c6 c2c4 Ng8f6 Nb1c3 e7e6 Bc1g5 h7h6 Bg5h4 d5c4 e2e4 g7g5 Bh4g3 b7b5 Bf1e2 Bc8b7
+d2d4 d7d5 Ng1f3 c7c6 c2c4 Ng8f6 Nb1c3 e7e6 Bc1g5 h7h6 Bg5f6 Qd8f6
+d2d4 d7d5 Ng1f3 c7c6 c2c4 Ng8f6 Nb1c3 e7e6 e2e3 Nb8d7 Qd1c2 Bf8d6 Bf1d3 O-O O-O d5c4 Bd3c4
+d2d4 d7d5 Ng1f3 c7c6 c2c4 Ng8f6 Nb1c3 e7e6 e2e3 Nb8d7 Bf1d3 d5c4 Bd3c4 b7b5 Bc4d3
+d2d4 d7d5 Ng1f3 c7c6 c2c4 Ng8f6 Nb1c3 d5c4 a2a4 Bc8f5 Nf3e5
+d2d4 d7d5 Ng1f3 c7c6 c2c4 Ng8f6 Nb1c3 d5c4 a2a4 Bc8f5 e2e3 e7e6 Bf1c4 Bf8b4 O-O
+d2d4 d7d5 Ng1f3 c7c6 c2c4 Ng8f6 Nb1c3 a7a6
+d2d4 d7d5 Ng1f3 c7c6 c2c4 Ng8f6 e2e3 Bc8f5 Nb1c3 e7e6 Nf3h4
+d2d4 d7d5 Ng1f3 c7c6 c2c4 Ng8f6 e2e3 e7e6
+d2d4 d7d5 Ng1f3 e7e6
+d2d4 d7d5 Bc1f4
+d2d4 e7e6 c2c4 Ng8f6 Ng1f3 b7b6 g2g3 Bc8a6 b2b3 Bf8b4 Bc1d2 Bb4e7 Bf1g2
+d2d4 e7e6 c2c4 Ng8f6 Ng1f3 b7b6 g2g3 Bc8b7 Bf1g2 Bf8e7 O-O O-O
+d2d4 e7e6 c2c4 Ng8f6 Ng1f3 b7b6 a2a3 Bc8b7 Bc8e7 Nb1c3 d7d5
+d2d4 e7e6 c2c4 Ng8f6 Ng1f3 b7b6 Nb1c3
+d2d4 e7e6 c2c4 Ng8f6 Ng1f3 d7d5 Nb1c3 Bf8e7 Bc1g5 h7h6
+d2d4 e7e6 c2c4 Ng8f6 Ng1f3 d7d5 Nb1c3 Bf8e7 Bc1g5 O-O e2e3
+d2d4 e7e6 c2c4 Ng8f6 Ng1f3 d7d5 Nb1c3 Bf8e7 Bc1f4 O-O e2e3
+d2d4 e7e6 c2c4 Ng8f6 Ng1f3 d7d5 Nb1c3 c7c6 Bc1g5 h7h6 Bg5h4 d5c4 e2e4 g7g5 Bh4g3 b7b5 Bf1e2 Bc8b7
+d2d4 e7e6 c2c4 Ng8f6 Ng1f3 d7d5 Nb1c3 c7c6 Bc1g5 h7h6 Bg5f6 Qd8f6
+d2d4 e7e6 c2c4 Ng8f6 Ng1f3 d7d5 Nb1c3 c7c6 e2e3 Nb8d7 Qd1c2 Bf8d6 Bf1d3 O-O O-O d5c4 Bd3c4
+d2d4 e7e6 c2c4 Ng8f6 Ng1f3 d7d5 Nb1c3 c7c6 e2e3 Nb8d7 Bf1d3 d5c4 Bd3c4 b7b5 Bc4d3
+d2d4 e7e6 c2c4 Ng8f6 Ng1f3 d7d5 Nb1c3 Bf8b4
+d2d4 e7e6 c2c4 Ng8f6 Ng1f3 d7d5 Nb1c3 d5c4
+d2d4 e7e6 c2c4 Ng8f6 Ng1f3 d7d5 g2g3 d5c4 Bf1g2
+d2d4 e7e6 c2c4 Ng8f6 Ng1f3 d7d5 g2g3 Bf8e7 Bf1g2 O-O O-O d5c4 Qd1c2 a7a6
+d2d4 e7e6 c2c4 Ng8f6 Ng1f3 d7d5 g2g3 Bf8b4 Bf1d2 Bb4e7 Bf1g2 O-O O-O
+d2d4 e7e6 c2c4 Ng8f6 Ng1f3 Bf8b4 Bc1d2 Qd8e7
+d2d4 e7e6 c2c4 Ng8f6 Ng1f3 Bf8b4 Nb1d2
+d2d4 e7e6 c2c4 Ng8f6 Ng1f3 c7c5 d4d5 e6d5 c4d5
+d2d4 e7e6 c2c4 Ng8f6 Nb1c3 Bf8b4 e2e3 O-O Bf1d3 d7d5 Ng1f3
+d2d4 e7e6 c2c4 Ng8f6 Nb1c3 Bf8b4 e2e3 c7c5
+d2d4 e7e6 c2c4 Ng8f6 Nb1c3 Bf8b4 Qd1c2 O-O a2a3 Bb4c3 Qc2c3 b7b6 Bc1g5
+d2d4 e7e6 c2c4 Ng8f6 Nb1c3 Bf8b4 f2f3
+d2d4 e7e6 c2c4 Ng8f6 Nb1c3 Bf8b4 Ng1f3
+d2d4 e7e6 c2c4 Ng8f6 Nb1c3 d7d5 c4d5 e6d5 Bc1g5 c7c6
+d2d4 e7e6 c2c4 Ng8f6 Nb1c3 d7d5 c4d5 e6d5 Bc1g5 Bf8e7 e2e3
+d2d4 e7e6 c2c4 Ng8f6 Nb1c3 d7d5 Bc1g5
+d2d4 e7e6 c2c4 Ng8f6 Nb1c3 d7d5 Ng1f3 Bf8e7 Bc1g5 h7h6
+d2d4 e7e6 c2c4 Ng8f6 Nb1c3 d7d5 Ng1f3 Bf8e7 Bc1g5 O-O e2e3
+d2d4 e7e6 c2c4 Ng8f6 Nb1c3 d7d5 Ng1f3 Bf8e7 Bc1f4 O-O e2e3
+d2d4 e7e6 c2c4 Ng8f6 Nb1c3 d7d5 Ng1f3 c7c6 Bc1g5 h7h6 Bg5h4 d5c4 e2e4 g7g5 Bh4g3 b7b5 Bf1e2 Bc8b7
+d2d4 e7e6 c2c4 Ng8f6 Nb1c3 d7d5 Ng1f3 c7c6 Bc1g5 h7h6 Bg5f6 Qd8f6
+d2d4 e7e6 c2c4 Ng8f6 Nb1c3 d7d5 Ng1f3 c7c6 e2e3 Nb8d7 Qd1c2 Bf8d6 Bf1d3 O-O O-O d5c4 Bd3c4
+d2d4 e7e6 c2c4 Ng8f6 Nb1c3 d7d5 Ng1f3 c7c6 e2e3 Nb8d7 Bf1d3 d5c4 Bd3c4 b7b5 Bc4d3
+d2d4 e7e6 c2c4 Ng8f6 Nb1c3 d7d5 Ng1f3 Bf8b4
+d2d4 e7e6 c2c4 Ng8f6 Nb1c3 d7d5 Ng1f3 d5c4
+d2d4 e7e6 c2c4 Ng8f6 g2g3 d7d5 Bf1g2
+d2d4 e7e6 c2c4 Ng8f6 g2g3 d7d5 Ng1f3 d5c4 Bf1g2
+d2d4 e7e6 c2c4 Ng8f6 g2g3 d7d5 Ng1f3 Bf8e7 Bf1g2 O-O O-O d5c4 Qd1c2 a7a6
+d2d4 e7e6 c2c4 Ng8f6 g2g3 d7d5 Ng1f3 Bf8b4 Bc1d2 Bb4e7 Bf1g2 O-O O-O
+d2d4 e7e6 c2c4 Ng8f6 g2g3 c7c5 
+d2d4 e7e6 c2c4 Ng8f6 g2g3 Bf8b4
+d2d4 e7e6 c2c4 f7f5
+d2d4 e7e6 Ng1f3
+d2d4 d7d6 Ng1f3 g7g6
+d2d4 d7d6 e2e4 Ng8f6 Nb1c3 g7g6
+d2d4 d7d6 e2e4 Ng8f6 Nb1c3 e7e5 Ng1f3 Nb8d7 Bf1c4 Bf8e7 O-O O-O
+d2d4 d7d6 e2e4 g7g6 Nb1c3
+d2d4 d7d6 c2c4
+d2d4 f7f5 g2g3 Ng8f6 Bf1g2 g7g6
+d2d4 g7g6 c2c4 Bf8g7 Nb1c3
+d2d4 g7g6 e2e4 Bf8g7 Nb1c3 d7d6 Bc1e3
+d2d4 g7g6 e2e4 Bf8g7 Nb1c3 d7d6 f2f4
+d2d4 g7g6 e2e4 Bf8g7 Nb1c3 c7c6
+d2d4 g7g6 e2e4 Bf8g7 Ng1f3 d7d6
+d2d4 c7c5 d4d5
+Ng1f3 Ng8f6 c2c4 g7g6 Nb1c3 Bf8g7 e2e4 d7d6 d2d4 O-O Bf1e2 e7e5 O-O Nb8c6 d4d5 Nc6e7 b2b4
+Ng1f3 Ng8f6 c2c4 g7g6 Nb1c3 Bf8g7 e2e4 d7d6 d2d4 O-O Bf1e2 e7e5 O-O Nb8c6 d4d5 Nc6e7 Nf3e1 Nf6d7
+Ng1f3 Ng8f6 c2c4 g7g6 Nb1c3 Bf8g7 e2e4 d7d6 d2d4 O-O Bf1e2 e7e5 Bc1e3
+Ng1f3 Ng8f6 c2c4 g7g6 Nb1c3 Bf8g7 e2e4 d7d6 d2d4 O-O h2h3 e7e5
+Ng1f3 Ng8f6 c2c4 g7g6 g2g3 Bf8g7 Bf1g2 O-O O-O
+Ng1f3 Ng8f6 c2c4 e7e6 g2g3 d7d5 Bf1g2 Bf8e7 O-O O-O
+Ng1f3 Ng8f6 c2c4 e7e6 Nb1c3 d7d5 d2d4 Bf8e7 Bc1g5 h7h6
+Ng1f3 Ng8f6 c2c4 e7e6 Nb1c3 d7d5 d2d4 Bf8e7 Bc1g5 O-O e2e3
+Ng1f3 Ng8f6 c2c4 e7e6 Nb1c3 d7d5 d2d4 Bf8e7 Bc1f4 O-O e2e3
+Ng1f3 Ng8f6 c2c4 e7e6 Nb1c3 d7d5 d2d4 c7c6 Bc1g5 h7h6 Bg5h4 d5c4 e2e4 g7g5 Bh4g3 b7b5 Bf1e2 Bc8b7
+Ng1f3 Ng8f6 c2c4 e7e6 Nb1c3 d7d5 d2d4 c7c6 Bc1g5 h7h6 Bg5f6 Qd8f6
+Ng1f3 Ng8f6 c2c4 e7e6 Nb1c3 d7d5 d2d4 c7c6 e2e3 Nb8d7 Qd1c2 Bf8d6 Bf1d3 O-O O-O d5c4 Bd3c4
+Ng1f3 Ng8f6 c2c4 e7e6 Nb1c3 d7d5 d2d4 c7c6 e2e3 Nb8d7 Bf1d3 d5c4 Bd3c4 b7b5 Bc4d3
+Ng1f3 Ng8f6 c2c4 e7e6 Nb1c3 d7d5 d2d4 Bf8b4
+Ng1f3 Ng8f6 c2c4 e7e6 Nb1c3 d7d5 d2d4 d5c4
+Ng1f3 Ng8f6 c2c4 c7c5 Nb1c3 Nb8c6
+Ng1f3 Ng8f6 c2c4 c7c5 Nb1c3 e7e6 g2g3
+Ng1f3 Ng8f6 c2c4 c7c5 g2g3
+Ng1f3 Ng8f6 c2c4 b7b6
+Ng1f3 Ng8f6 g2g3 g7g6 Bf1g2 Bf8g7 O-O O-O
+Ng1f3 Ng8f6 g2g3 d7d5 Bf1g2 c7c6 O-O
+Ng1f3 Ng8f6 d2d4 g7g6 c2c4 Bf8g7 Nb1c3 O-O e2e4 d7d6 Bf1e2 e7e5 O-O Nb8c6 d4d5 Nc6e7 b2b4
+Ng1f3 Ng8f6 d2d4 g7g6 c2c4 Bf8g7 Nb1c3 O-O e2e4 d7d6 Bf1e2 e7e5 O-O Nb8c6 d4d5 Nc6e7 Nf3e1 Nf6d7
+Ng1f3 Ng8f6 d2d4 g7g6 c2c4 Bf8g7 Nb1c3 O-O e2e4 d7d6 Bf1e2 e7e5 Bc1e3
+Ng1f3 Ng8f6 d2d4 g7g6 c2c4 Bf8g7 Nb1c3 O-O e2e4 d7d6 h2h3 e7e5
+Ng1f3 Ng8f6 d2d4 g7g6 c2c4 Bf8g7 Nb1c3 d7d5
+Ng1f3 Ng8f6 d2d4 g7g6 c2c4 Bf8g7 g2g3 O-O Bf1g2 d7d6 O-O Nb8c6 Nb1c3 a7a6
+Ng1f3 Ng8f6 d2d4 g7g6 c2c4 Bf8g7 g2g3 O-O Bf1g2 d7d6 O-O Nb8d7 Nb1c3 e7e5 e2e4
+Ng1f3 Ng8f6 d2d4 g7g6 g2g3 Bf8g7 Bf1g2 O-O O-O d7d6
+Ng1f3 Ng8f6 d2d4 g7g6 Bc1g5 Bf8g7 Nb1d2
+Ng1f3 Ng8f6 d2d4 e7e6 c2c4 b7b6 g2g3 Bc8a6 b2b3 Bf8b4 Bc1d2 Bb4e7 Bf1g2
+Ng1f3 Ng8f6 d2d4 e7e6 c2c4 b7b6 g2g3 Bc8b7 Bf1g2 Bf8e7 O-O O-O
+Ng1f3 Ng8f6 d2d4 e7e6 c2c4 b7b6 a2a3 Bc8b7 Bc8e7 Nb1c3
+Ng1f3 Ng8f6 d2d4 e7e6 c2c4 b7b6 Nb1c3
+Ng1f3 Ng8f6 d2d4 e7e6 c2c4 d7d5 Nb1c3 Bf8e7 Bc1g5 h7h6
+Ng1f3 Ng8f6 d2d4 e7e6 c2c4 d7d5 Nb1c3 Bf8e7 Bc1g5 O-O e2e3
+Ng1f3 Ng8f6 d2d4 e7e6 c2c4 d7d5 Nb1c3 Bf8e7 Bc1f4 O-O e2e3
+Ng1f3 Ng8f6 d2d4 e7e6 c2c4 d7d5 Nb1c3 c7c6 Bc1g5 h7h6 Bg5h4 d5c4 e2e4 g7g5 Bh4g3 b7b5 Bf1e2 Bc8b7
+Ng1f3 Ng8f6 d2d4 e7e6 c2c4 d7d5 Nb1c3 c7c6 Bc1g5 h7h6 Bg5f6 Qd8f6
+Ng1f3 Ng8f6 d2d4 e7e6 c2c4 d7d5 Nb1c3 c7c6 e2e3 Nb8d7 Qd1c2 Bf8d6 Bf1d3 O-O O-O d5c4 Bd3c4
+Ng1f3 Ng8f6 d2d4 e7e6 c2c4 d7d5 Nb1c3 c7c6 e2e3 Nb8d7 Bf1d3 d5c4 Bd3c4 b7b5 Bc4d3
+Ng1f3 Ng8f6 d2d4 e7e6 c2c4 d7d5 Nb1c3 Bf8b4 Bf1g2 O-O O-O d5c4 Qd1c2 a7a6
+Ng1f3 Ng8f6 d2d4 e7e6 c2c4 d7d5 Nb1c3 d5c4
+Ng1f3 Ng8f6 d2d4 e7e6 c2c4 d7d5 g2g3 d5c4 Bf1g2
+Ng1f3 Ng8f6 d2d4 e7e6 c2c4 d7d5 g2g3 Bf8e7 Bf1g2 O-O O-O d5c4 Qd1c2 a7a6
+Ng1f3 Ng8f6 d2d4 e7e6 c2c4 d7d5 g2g3 Bf8b4 Bf1d2 Bb4e7 Bf1g2 O-O O-O
+Ng1f3 Ng8f6 d2d4 e7e6 c2c4 Bf8b4 Bc1d2 Qd8e7
+Ng1f3 Ng8f6 d2d4 e7e6 c2c4 Bf8b4 Nb1d2
+Ng1f3 Ng8f6 d2d4 e7e6 c2c4 c7c5 d4d5 e6d5 c4d5
+Ng1f3 Ng8f6 d2d4 e7e6 g2g3
+Ng1f3 Ng8f6 d2d4 e7e6 e2e3
+Ng1f3 Ng8f6 d2d4 e7e6 Bc1g5
+Ng1f3 Ng8f6 d2d4 d7d5 c2c4 c7c6 Nb1c3 e7e6 Bc1g5 h7h6 Bg5h4 d5c4 e2e4 g7g5 Bh4g3 b7b5 Bf1e2 Bc8b7
+Ng1f3 Ng8f6 d2d4 d7d5 c2c4 c7c6 Nb1c3 e7e6 Bc1g5 h7h6 Bg5f6 Qd8f6
+Ng1f3 Ng8f6 d2d4 d7d5 c2c4 c7c6 Nb1c3 e7e6 e2e3 Nb8d7 Qd1c2 Bf8d6 Bf1d3 O-O O-O d5c4 Bd3c4
+Ng1f3 Ng8f6 d2d4 d7d5 c2c4 c7c6 Nb1c3 e7e6 e2e3 Nb8d7 Bf1d3 d5c4 Bd3c4 b7b5 Bc4d3
+Ng1f3 Ng8f6 d2d4 d7d5 c2c4 c7c6 Nb1c3 d5c4 a2a4 Bc8f5 Nf3e5
+Ng1f3 Ng8f6 d2d4 d7d5 c2c4 c7c6 Nb1c3 d5c4 a2a4 Bc8f5 e2e3 e7e6 Bf1c4 Bf8b4 O-O
+Ng1f3 Ng8f6 d2d4 d7d5 c2c4 c7c6 Nb1c3 a7a6
+Ng1f3 Ng8f6 d2d4 d7d5 c2c4 c7c6 e2e3 Bc8f5 Nb1c3 e7e6 Nf3h4
+Ng1f3 Ng8f6 d2d4 d7d5 c2c4 c7c6 e2e3 e7e6
+Ng1f3 Ng8f6 d2d4 d7d5 c2c4 c7c6 e2e3 Bc8f5 Nb1c3 e7e6 Nf3h4
+Ng1f3 Ng8f6 d2d4 d7d5 c2c4 c7c6 e2e3 e7e6
+Ng1f3 Ng8f6 d2d4 d7d5 c2c4 e7e6 Nb1c3 Bf8e7 Bc1g5 h7h6
+Ng1f3 Ng8f6 d2d4 d7d5 c2c4 e7e6 Nb1c3 Bf8e7 Bc1g5 O-O e2e3
+Ng1f3 Ng8f6 d2d4 d7d5 c2c4 e7e6 Nb1c3 Bf8e7 Bc1f4 O-O e2e3
+Ng1f3 Ng8f6 d2d4 d7d5 c2c4 e7e6 Nb1c3 c7c6 Bc1g5 h7h6 Bg5h4 d5c4 e2e4 g7g5 Bh4g3 b7b5 Bf1e2 Bc8b7
+Ng1f3 Ng8f6 d2d4 d7d5 c2c4 e7e6 Nb1c3 c7c6 Bc1g5 h7h6 Bg5f6 Qd8f6
+Ng1f3 Ng8f6 d2d4 d7d5 c2c4 e7e6 Nb1c3 c7c6 e2e3 Nb8d7 Qd1c2 Bf8d6 Bf1d3 O-O O-O d5c4 Bd3c4
+Ng1f3 Ng8f6 d2d4 d7d5 c2c4 e7e6 Nb1c3 c7c6 e2e3 Nb8d7 Bf1d3 d5c4 Bd3c4 b7b5 Bc4d3
+Ng1f3 Ng8f6 d2d4 d7d5 c2c4 e7e6 Nb1c3 Bf8b4
+Ng1f3 Ng8f6 d2d4 d7d5 c2c4 e7e6 Nb1c3 d5c4
+Ng1f3 Ng8f6 d2d4 d7d5 c2c4 e7e6 g2g3 d5c4 Bf1g2
+Ng1f3 Ng8f6 d2d4 d7d5 c2c4 e7e6 g2g3 Bf8e7 Bf1g2 O-O O-O d5c4 Qd1c2 a7a6
+Ng1f3 Ng8f6 d2d4 d7d5 c2c4 e7e6 g2g3 Bf8b4 Bc1d2 Bb4e7 Bf1g2 O-O O-O
+Ng1f3 Ng8f6 d2d4 d7d5 c2c4 d5c4 e2e3 e7e6 Bf1c4 c7c5 O-O a7a6
+Ng1f3 Ng8f6 d2d4 d7d5 Bc1f4
+Ng1f3 Ng8f6 d2d4 c7c5 d4d5
+Ng1f3 d7d5 g2g3 Ng8f6 Bf1g2 c7c6 O-O
+Ng1f3 d7d5 g2g3 c7c6 Bf1g2
+Ng1f3 d7d5 d2d4 Ng8f6 c2c4 c7c6 Nb1c3 e7e6 Bc1g5 h7h6 Bg5h4 d5c4 e2e4 g7g5 Bh4g3 b7b5 Bf1e2 Bc8b7
+Ng1f3 d7d5 d2d4 Ng8f6 c2c4 c7c6 Nb1c3 e7e6 Bc1g5 h7h6 Bg5f6 Qd8f6
+Ng1f3 d7d5 d2d4 Ng8f6 c2c4 c7c6 Nb1c3 e7e6 e2e3 Nb8d7 Qd1c2 Bf8d6 Bf1d3 O-O O-O d5c4 Bd3c4
+Ng1f3 d7d5 d2d4 Ng8f6 c2c4 c7c6 Nb1c3 e7e6 e2e3 Nb8d7 Bf1d3 d5c4 Bd3c4 b7b5 Bc4d3
+Ng1f3 d7d5 d2d4 Ng8f6 c2c4 c7c6 Nb1c3 d5c4 d5c4 a2a4 Bc8f5 Nf3e5
+Ng1f3 d7d5 d2d4 Ng8f6 c2c4 c7c6 Nb1c3 d5c4 d5c4 a2a4 Bc8f5 e2e3 e7e6 Bf1c4 Bf8b4 O-O
+Ng1f3 d7d5 d2d4 Ng8f6 c2c4 c7c6 Nb1c3 a7a6
+Ng1f3 d7d5 d2d4 Ng8f6 c2c4 c7c6 e2e3 Bc8f5 Nb1c3 e7e6 Nf3h4
+Ng1f3 d7d5 d2d4 Ng8f6 c2c4 c7c6 e2e3 e7e6
+Ng1f3 d7d5 d2d4 Ng8f6 c2c4 e7e6 Nb1c3 Bf8e7 Bc1g5 h7h6
+Ng1f3 d7d5 d2d4 Ng8f6 c2c4 e7e6 Nb1c3 Bf8e7 Bc1g5 O-O e2e3
+Ng1f3 d7d5 d2d4 Ng8f6 c2c4 e7e6 Nb1c3 Bf8e7 Bc1f4 O-O e2e3
+Ng1f3 d7d5 d2d4 Ng8f6 c2c4 e7e6 Nb1c3 c7c6 Bc1g5 h7h6 Bg5h4 d5c4 e2e4 g7g5 Bh4g3 b7b5 Bf1e2 Bc8b7
+Ng1f3 d7d5 d2d4 Ng8f6 c2c4 e7e6 Nb1c3 c7c6 Bc1g5 h7h6 Bg5f6 Qd8f6
+Ng1f3 d7d5 d2d4 Ng8f6 c2c4 e7e6 Nb1c3 c7c6 e2e3 Nb8d7 Qd1c2 Bf8d6 Bf1d3 O-O O-O d5c4 Bd3c4
+Ng1f3 d7d5 d2d4 Ng8f6 c2c4 e7e6 Nb1c3 c7c6 e2e3 Nb8d7 Bf1d3 d5c4 Bd3c4 b7b5 Bc4d3
+Ng1f3 d7d5 d2d4 Ng8f6 c2c4 e7e6 Nb1c3 Bf8b4
+Ng1f3 d7d5 d2d4 Ng8f6 c2c4 e7e6 Nb1c3 d5c4
+Ng1f3 d7d5 d2d4 Ng8f6 c2c4 e7e6 g2g3 d5c4 Bf1g2
+Ng1f3 d7d5 d2d4 Ng8f6 c2c4 e7e6 g2g3 Bf8e7 Bf1g2 O-O O-O d5c4 Qd1c2 a7a6
+Ng1f3 d7d5 d2d4 Ng8f6 c2c4 e7e6 g2g3 Bf8b4 Bc1d2 Bb4e7 Bf1g2 O-O O-O
+Ng1f3 d7d5 d2d4 Ng8f6 c2c4 d5c4 e2e3 e7e6 Bf1c4 c7c5 O-O a7a6
+Ng1f3 d7d5 d2d4 Ng8f6 Bc1f4
+Ng1f3 d7d5 d2d4 c7c6 c2c4 Ng8f6 Nb1c3 e7e6 Bc1g5 h7h6 Bg5h4 d5c4 e2e4 g7g5 Bh4g3 b7b5 Bf1e2 Bc8b7
+Ng1f3 d7d5 d2d4 c7c6 c2c4 Ng8f6 Nb1c3 e7e6 Bc1g5 h7h6 Bg5f6 Qd8f6
+Ng1f3 d7d5 d2d4 c7c6 c2c4 Ng8f6 Nb1c3 e7e6 e2e3 Nb8d7 Qd1c2 Bf8d6 Bf1d3 O-O O-O d5c4 Bd3c4
+Ng1f3 d7d5 d2d4 c7c6 c2c4 Ng8f6 Nb1c3 e7e6 e2e3 Nb8d7 Bf1d3 d5c4 Bd3c4 b7b5 Bc4d3
+Ng1f3 d7d5 d2d4 c7c6 c2c4 Ng8f6 Nb1c3 d5c4 a2a4 Bc8f5 Nf3e5
+Ng1f3 d7d5 d2d4 c7c6 c2c4 Ng8f6 Nb1c3 d5c4 a2a4 Bc8f5 e2e3 e7e6 Bf1c4 Bf8b4 O-O
+Ng1f3 d7d5 d2d4 c7c6 c2c4 Ng8f6 Nb1c3 a7a6
+Ng1f3 d7d5 d2d4 c7c6 c2c4 Ng8f6 e2e3 Bc8f5 Nb1c3 e7e6 Nf3h4
+Ng1f3 d7d5 d2d4 c7c6 c2c4 Ng8f6 e2e3 e7e6
+Ng1f3 d7d5 d2d4 e7e6
+Ng1f3 d7d5 c2c4 c7c6
+Ng1f3 d7d5 c2c4 e7e6
+Ng1f3 c7c5 c2c4 Nb8c6 Nb1c3
+Ng1f3 c7c5 c2c4 Ng8f6 Nb1c3 Nb8c6
+Ng1f3 c7c5 c2c4 Ng8f6 Nb1c3 e7e6 g2g3
+Ng1f3 c7c5 c2c4 Ng8f6 g2g3
+Ng1f3 c7c5 g2g3
+Ng1f3 g7g6
+Ng1f3 f7f5
+Ng1f3 d7d6
+c2c4 Ng8f6 Nb1c3 g7g6
+c2c4 Ng8f6 Nb1c3 e7e5 Ng1f3 Nb8c6 g2g3
+c2c4 Ng8f6 Nb1c3 e7e5 g2g3
+c2c4 Ng8f6 Nb1c3 e7e6
+c2c4 Ng8f6 g2g3
+c2c4 Ng8f6 Ng1f3 g7g6 Nb1c3 Bf8g7 e2e4 d7d6 d2d4 O-O Bf1e2 e7e5 O-O Nb8c6 d4d5 Nc6e7 b2b4
+c2c4 Ng8f6 Ng1f3 g7g6 Nb1c3 Bf8g7 e2e4 d7d6 d2d4 O-O Bf1e2 e7e5 O-O Nb8c6 d4d5 Nc6e7 Nf3e1 Nf6d7
+c2c4 Ng8f6 Ng1f3 g7g6 Nb1c3 Bf8g7 e2e4 d7d6 d2d4 O-O Bf1e2 e7e5 Bc1e3
+c2c4 Ng8f6 Ng1f3 g7g6 Nb1c3 Bf8g7 e2e4 d7d6 d2d4 O-O h2h3 e7e5
+c2c4 Ng8f6 Ng1f3 g7g6 g2g3 Bf8g7 Bf1g2 O-O O-O
+c2c4 Ng8f6 Ng1f3 e7e6 g2g3 d7d5 Bf1g2 Bf8e7 O-O O-O
+c2c4 Ng8f6 Ng1f3 e7e6 Nb1c3 d7d5 d2d4 Bf8e7 Bc1g5 h7h6
+c2c4 Ng8f6 Ng1f3 e7e6 Nb1c3 d7d5 d2d4 Bf8e7 Bc1g5 O-O e2e3
+c2c4 Ng8f6 Ng1f3 e7e6 Nb1c3 d7d5 d2d4 Bf8e7 Bc1f4 O-O e2e3
+c2c4 Ng8f6 Ng1f3 e7e6 Nb1c3 d7d5 d2d4 c7c6 Bc1g5 h7h6 Bg5h4 d5c4 e2e4 g7g5 Bh4g3 b7b5 Bf1e2 Bc8b7
+c2c4 Ng8f6 Ng1f3 e7e6 Nb1c3 d7d5 d2d4 c7c6 Bc1g5 h7h6 Bg5f6 Qd8f6
+c2c4 Ng8f6 Ng1f3 e7e6 Nb1c3 d7d5 d2d4 c7c6 e2e3 Nb8d7 Qd1c2 Bf8d6 Bf1d3 O-O O-O d5c4 Bd3c4
+c2c4 Ng8f6 Ng1f3 e7e6 Nb1c3 d7d5 d2d4 c7c6 e2e3 Nb8d7 Bf1d3 d5c4 Bd3c4 b7b5 Bc4d3
+c2c4 Ng8f6 Ng1f3 e7e6 Nb1c3 d7d5 d2d4 Bf8b4
+c2c4 Ng8f6 Ng1f3 e7e6 Nb1c3 d7d5 d2d4 d5c4
+c2c4 Ng8f6 Ng1f3 c7c5 Nb1c3 Nb8c6
+c2c4 Ng8f6 Ng1f3 c7c5 Nb1c3 e7e6 g2g3
+c2c4 Ng8f6 Ng1f3 c7c5 g2g3
+c2c4 Ng8f6 Ng1f3 b7b6
+c2c4 e7e5 Nb1c3 Ng8f6 Ng1f3 Nb8c6 g2g3
+c2c4 e7e5 Nb1c3 Ng8f6 g2g3
+c2c4 e7e5 Nb1c3 Nb8c6
+c2c4 e7e5 g2g3 Ng8f6 Bf1g2
+c2c4 e7e6 Ng1f3 d7d5
+c2c4 e7e6 Nb1c3 d7d5 d2d4 Ng8f6 c4d5 e6d5 Bc1g5 c7c6
+c2c4 e7e6 Nb1c3 d7d5 d2d4 Ng8f6 c4d5 e6d5 Bc1g5 Bf8e7 e2e3
+c2c4 e7e6 Nb1c3 d7d5 d2d4 Ng8f6 Bc1g5
+c2c4 e7e6 Nb1c3 d7d5 d2d4 Ng8f6 Ng1f3 Bf8e7 Bc1g5 h7h6
+c2c4 e7e6 Nb1c3 d7d5 d2d4 Ng8f6 Ng1f3 Bf8e7 Bc1g5 O-O e2e3
+c2c4 e7e6 Nb1c3 d7d5 d2d4 Ng8f6 Ng1f3 Bf8e7 Bc1f4 O-O e2e3
+c2c4 e7e6 Nb1c3 d7d5 d2d4 Ng8f6 Ng1f3 c7c6 Bc1g5 h7h6 Bg5h4 d5c4 e2e4 g7g5 Bh4g3 b7b5 Bf1e2 Bc8b7
+c2c4 e7e6 Nb1c3 d7d5 d2d4 Ng8f6 Ng1f3 c7c6 Bc1g5 h7h6 Bg5f6 Qd8f6
+c2c4 e7e6 Nb1c3 d7d5 d2d4 Ng8f6 Ng1f3 c7c6 e2e3 Nb8d7 Qd1c2 Bf8d6 Bf1d3 O-O O-O d5c4 Bd3c4
+c2c4 e7e6 Nb1c3 d7d5 d2d4 Ng8f6 Ng1f3 c7c6 e2e3 Nb8d7 Bf1d3 d5c4 Bd3c4 b7b5 Bc4d3
+c2c4 e7e6 Nb1c3 d7d5 d2d4 Ng8f6 Ng1f3 Bf8b4
+c2c4 e7e6 Nb1c3 d7d5 d2d4 Ng8f6 Ng1f3 d5c4
+c2c4 e7e6 Nb1c3 d7d5 d2d4 c7c6
+c2c4 e7e6 Nb1c3 d7d5 d2d4 Bf8e7
+c2c4 e7e6 g2g3
+c2c4 c7c5 Ng1f3 Nb8c6 Nb1c3
+c2c4 c7c5 Ng1f3 Ng8f6 Nb1c3 Nb8c6
+c2c4 c7c5 Ng1f3 Ng8f6 Nb1c3 e7e6 g2g3
+c2c4 c7c5 Ng1f3 Ng8f6 g2g3
+c2c4 c7c5 Nb1c3
+c2c4 c7c6 Ng1f3
+c2c4 g7g6 Nb1c3
+g2g3 d7d5
+b2b3
+f2f4
