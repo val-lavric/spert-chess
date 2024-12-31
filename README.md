@@ -35,3 +35,5 @@
   * GUI library: wxWidgets (version 3.2.4)
 
   * IDE software: Visual Studio 2022 (version 17.11.3)
+
+![Alt text](https://github.com/val-lavric/spert-chess/blob/main/screenshot.png)
