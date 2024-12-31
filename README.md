@@ -8,9 +8,9 @@
 
 * You can download it from the release section, extract and run
 
-* On 32-bit systems only "Spert x86" executable will work
+* On 32-bit systems, only "Spert x86" executable will work
 
-* For 64-bit systems I recomend "Spert" executable, it is faster
+* For 64-bit systems I recommend "Spert" executable, it is faster
 
 * I built it for Windows 10 OS, and it can also be run on Windows 11 and Windows 7
 
