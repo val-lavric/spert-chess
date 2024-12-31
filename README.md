@@ -1,8 +1,12 @@
 # Spert Chess
 ## Play chess
+
 * An application to play chess on Windows systems
+
 * No need to install it in a chess GUI, as it has its own
+
 * You can download it from the release section, extract and run
+
 * On 32-bit systems only "Spert x86" executable will work
 * For 64-bit systems I recomend "Spert" executable, it is faster
 * I built it for Windows 10 OS, and it can also be run on Windows 10 and Windows 7
