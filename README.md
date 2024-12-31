@@ -1,1 +1,2 @@
-# Spert
+# Spert Chess
+## An application 
