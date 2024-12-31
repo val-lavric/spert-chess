@@ -12,7 +12,7 @@
 
 * For 64-bit systems I recomend "Spert" executable, it is faster
 
-* I built it for Windows 10 OS, and it can also be run on Windows 10 and Windows 7
+* I built it for Windows 10 OS, and it can also be run on Windows 11 and Windows 7
 
 * The engine is not strong, so it is suitable for casual games
 
