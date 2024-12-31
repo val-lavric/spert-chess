@@ -1,6 +1,6 @@
-# Spert Chess Application
+# A Chess Application
 
-## Play chess
+## What it is made for
 
 * An application to play chess on Windows systems
 
@@ -24,7 +24,7 @@
 
 * Has its own opening book, not a large one, as I made it manually
 
-## How I Made it
+## How it was made
 
 * I made Spert Chess as a personal project while learning to program
 
