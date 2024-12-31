@@ -2,7 +2,7 @@
 
 ## What it is made for
 
-* An application to play chess on Windows systems
+* An application to play chess on Windows PC's
 
 * No need to install it in a chess GUI, as it has its own
 
