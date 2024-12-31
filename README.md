@@ -1,4 +1,4 @@
-# Spert - A Chess Application
+# Spert Chess Application
 
 ## Play chess
 
