@@ -656,9 +656,9 @@ void Chess::Evaluate(Position& position)
 	int pawnFinalBonus = (wPawns - bPawns) * (16 - figDensity) * 100 / 64;
 	material = position.material + pawnFinalBonus;
 
-	material += material * (32 - figDensity) / 32;				// material importance in the endgame
-	mobility += mobility * figDensity / 32;						// mobility importance in the opening
-	strategy += strategy * (16 - abs(figDensity - 8)) / 16;		// strategy importance in the middlegame
+	material *= 2;
+	mobility += mobility * figDensity / 16;		// first more mobility
+	strategy += strategy * (16 - figDensity) / 16;	// then more strategy
 
 	// more explanation of evaluation adjustments:
 	// density of figures on the board changes the assesment of the position during the game
@@ -760,9 +760,9 @@ void Chess::KnightMobility(const Position& position, size_t j, size_t i)
 	}
 
 	if (N == wN)
-		mobility += 3 * mob + 10 * threat;
+		mobility += 2 * mob + 10 * threat;
 	else if (N == bN)
-		mobility -= 3 * mob + 10 * threat;
+		mobility -= 2 * mob + 10 * threat;
 }
 
 void Chess::BishopMobility(const Position& position, size_t j, size_t i)
