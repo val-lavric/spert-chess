@@ -55,6 +55,7 @@ private:
 	wxPanel* squares[64];		// the panels for every square of the board
 	wxBoxSizer* sizer;
 	wxGridSizer* boardSizer;
+	wxBitmap bitmap[64];
 	wxStaticBitmap* squareControls[64];
 	wxToolBar* toolBar = CreateToolBar();
 	wxColour sideColour = *wxWHITE;

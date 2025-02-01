@@ -89,12 +89,12 @@ void SpertFrame::SetupSizers()
 void SpertFrame::SetSquareControls(int i)
 {
 	wxImage image;
-	wxBitmap bitmap;
 	int row = 8 - i / 8;
 	int col = 1 + i % 8;
 	int piece = initBOARD[row][col];
 
-	PaintSquare(i, piece, 60, image, bitmap);
+	squareControls[i] = new wxStaticBitmap(squares[i], wxID_ANY, bitmap[i]);
+	PaintSquare(i, piece, 60, image, bitmap[i]);
 
 	if (((i % 2 == 0 && (i / 8) % 2 == 0)) || (i % 2 == 1 && (i / 8) % 2 == 1))
 	{
@@ -118,81 +118,69 @@ void SpertFrame::PaintSquare(int i, int piece, int size, wxImage& image, wxBitma
 		image = wxImage("white_pawn.png", wxBITMAP_TYPE_PNG);
 		image.Rescale(size, size, wxIMAGE_QUALITY_HIGH);
 		bitmap = wxBitmap(image);
-		squareControls[i] = new wxStaticBitmap(squares[i], wxID_ANY, bitmap);
 		break;
 	case bP:
 		image = wxImage("black_pawn.png", wxBITMAP_TYPE_PNG);
 		image.Rescale(size, size, wxIMAGE_QUALITY_HIGH);
 		bitmap = wxBitmap(image);
-		squareControls[i] = new wxStaticBitmap(squares[i], wxID_ANY, bitmap);
 		break;
 	case wN:
 		image = wxImage("white_knight.png", wxBITMAP_TYPE_PNG);
 		image.Rescale(size, size, wxIMAGE_QUALITY_HIGH);
 		bitmap = wxBitmap(image);
-		squareControls[i] = new wxStaticBitmap(squares[i], wxID_ANY, bitmap);
 		break;
 	case bN:
 		image = wxImage("black_knight.png", wxBITMAP_TYPE_PNG);
 		image.Rescale(size, size, wxIMAGE_QUALITY_HIGH);
 		bitmap = wxBitmap(image);
-		squareControls[i] = new wxStaticBitmap(squares[i], wxID_ANY, bitmap);
 		break;
 	case wB:
 		image = wxImage("white_bishop.png", wxBITMAP_TYPE_PNG);
 		image.Rescale(size, size, wxIMAGE_QUALITY_HIGH);
 		bitmap = wxBitmap(image);
-		squareControls[i] = new wxStaticBitmap(squares[i], wxID_ANY, bitmap);
 		break;
 	case bB:
 		image = wxImage("black_bishop.png", wxBITMAP_TYPE_PNG);
 		image.Rescale(size, size, wxIMAGE_QUALITY_HIGH);
 		bitmap = wxBitmap(image);
-		squareControls[i] = new wxStaticBitmap(squares[i], wxID_ANY, bitmap);
 		break;
 	case wR:
 		image = wxImage("white_rook.png", wxBITMAP_TYPE_PNG);
 		image.Rescale(size, size, wxIMAGE_QUALITY_HIGH);
 		bitmap = wxBitmap(image);
-		squareControls[i] = new wxStaticBitmap(squares[i], wxID_ANY, bitmap);
 		break;
 	case bR:
 		image = wxImage("black_rook.png", wxBITMAP_TYPE_PNG);
 		image.Rescale(size, size, wxIMAGE_QUALITY_HIGH);
 		bitmap = wxBitmap(image);
-		squareControls[i] = new wxStaticBitmap(squares[i], wxID_ANY, bitmap);
 		break;
 	case wQ:
 		image = wxImage("white_queen.png", wxBITMAP_TYPE_PNG);
 		image.Rescale(size, size, wxIMAGE_QUALITY_HIGH);
 		bitmap = wxBitmap(image);
-		squareControls[i] = new wxStaticBitmap(squares[i], wxID_ANY, bitmap);
 		break;
 	case bQ:
 		image = wxImage("black_queen.png", wxBITMAP_TYPE_PNG);
 		image.Rescale(size, size, wxIMAGE_QUALITY_HIGH);
 		bitmap = wxBitmap(image);
-		squareControls[i] = new wxStaticBitmap(squares[i], wxID_ANY, bitmap);
 		break;
 	case wK:
 		image = wxImage("white_king.png", wxBITMAP_TYPE_PNG);
 		image.Rescale(size, size, wxIMAGE_QUALITY_HIGH);
 		bitmap = wxBitmap(image);
-		squareControls[i] = new wxStaticBitmap(squares[i], wxID_ANY, bitmap);
 		break;
 	case bK:
 		image = wxImage("black_king.png", wxBITMAP_TYPE_PNG);
 		image.Rescale(size, size, wxIMAGE_QUALITY_HIGH);
 		bitmap = wxBitmap(image);
-		squareControls[i] = new wxStaticBitmap(squares[i], wxID_ANY, bitmap);
 		break;
 	default:
 		wxImage image(68, 68);
 		image.SetMaskColour(0, 0, 0);
 		image.Rescale(size, size, wxIMAGE_QUALITY_HIGH);
 		bitmap = wxBitmap(image);
-		squareControls[i] = new wxStaticBitmap(squares[i], wxID_ANY, bitmap);
 	}
+	squareControls[i]->SetBitmap(bitmap);
 }
 
 void SpertFrame::ResetToolBar()
@@ -301,7 +289,6 @@ void SpertFrame::OnResize(wxSizeEvent& event)
 			i = 63 - i;
 
 		PaintSquare(i, piece, size, image, bitmap);
-		squareControls[i]->Bind(wxEVT_LEFT_DOWN, &SpertFrame::OnSquareClicked, this);
 
 		if (((i % 2 == 0 && (i / 8) % 2 == 0)) || (i % 2 == 1 && (i / 8) % 2 == 1))
 		{
