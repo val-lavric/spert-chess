@@ -4,6 +4,12 @@
 
 SpertFrame::SpertFrame(const wxString& title) : wxFrame(nullptr, wxID_ANY, title)
 {
+	wxIcon icon;
+	if (icon.LoadFile("icon.ico", wxBITMAP_TYPE_ICO)) 
+	{
+		SetIcon(icon); // Set the icon for the frame
+	}
+	
 	CreateControls();
 	SetupSizers();
 	SetMaxSize(wxSize(900, 900));
