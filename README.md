@@ -28,7 +28,7 @@
 
 ## How it was made
 
-* I made Spert Chess as a personal project while learning to program
+* I made Spert Chess as a personal project while learning to program and from love for chess
 
 * What tools I used
   
