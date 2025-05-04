@@ -8,7 +8,8 @@
 
 * No need to install it in a chess GUI, it has its own
 
-* You can download it from the  <span style="text-decoration: none;">[release section](https://github.com/val-lavric/spert-chess/releases)</span>, extract and run
+* You can download it from the [release section][releases], extract and run
+  [releases]:(https://github.com/val-lavric/spert-chess/releases)
 
 * On 32-bit systems, only "Spert x86" executable will work
 
