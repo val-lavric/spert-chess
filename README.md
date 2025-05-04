@@ -4,9 +4,9 @@
 
 ## What it is made for
 
-* An application to play chess on Windows PC
+* An application for playing chess on Windows PC
 
-* No need to install it in a chess GUI, as it has its own
+* No need to install it in a chess GUI, it has its own
 
 * You can download it from the release section, extract and run
 
@@ -24,7 +24,7 @@
 
 * You can save current position and reload it at a later time, no whole game saving
 
-* Has its own opening book that is not very large
+* Has its own opening book
 
 ## How it was made
 
