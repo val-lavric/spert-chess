@@ -24,7 +24,7 @@
 
 * You can save current position and reload it at a later time, no whole game saving
 
-* Has its own opening book
+* Has its own chess openings book
 
 ## How it was made
 
