@@ -1,4 +1,4 @@
-# A Chess Application
+# Spert Chess
 
 ![Alt text](https://github.com/val-lavric/spert-chess/blob/main/screenshot.png)
 
