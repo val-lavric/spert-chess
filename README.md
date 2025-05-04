@@ -16,15 +16,15 @@
 
 * I built it for Windows 10 OS, and it can also be run on Windows 11 and Windows 7
 
-* The engine is not strong, so it is suitable for casual games
+* The engine is not very strong, so it is suitable for casual games
 
 * No time management, it only uses depth search
 
 * You can choose game speed: rapid, normal or slow
 
-* No game saving, but you can save current position and reload it at a later time
+* You can save current position and reload it at a later time, no whole game saving
 
-* Has its own opening book, not a large one, as I made it manually
+* Has its own opening book that is not very large
 
 ## How it was made
 
